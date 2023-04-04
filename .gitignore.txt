@@ -1,2 +1,2 @@
-arquivo-nao-publicado.txt.txt
 arquivo-nao-publicado.txt
+arquivo-nao-publicado.txt.txt
